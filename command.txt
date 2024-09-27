@@ -1,0 +1,1 @@
+newman run practice_Copy.postman_collection.json -e practice.postman_environment.json -d Book1.csv -r cli,htmlextra
